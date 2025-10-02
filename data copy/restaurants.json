@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Reza Grill",
+    "owner": "reza_owner",
+    "category": "Fastfood",
+    "menu": [
+      {
+        "name": "Burger",
+        "price": 150000.0,
+        "description": "it's a noramal burger"
+      },
+      {
+        "name": "Fries",
+        "price": 60000.0,
+        "description": "friesies"
+      },
+      {
+        "name": "Soda",
+        "price": 30000.0,
+        "description": "its just a soda"
+      }
+    ]
+  },
+  {
+    "name": "Fast Reza",
+    "owner": "reza_owner",
+    "category": "Fastfood",
+    "menu": []
+  },
+  {
+    "name": "jkabab",
+    "owner": "jj",
+    "category": "kabab",
+    "menu": [
+      {
+        "name": "kebab",
+        "price": 500000.0,
+        "description": "a delicious food"
+      },
+      {
+        "name": "doogh",
+        "price": 45000.0,
+        "description": "a dirink for eating kabab"
+      }
+    ]
+  }
+]

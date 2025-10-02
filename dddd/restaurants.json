@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Reza Grill",
+    "owner": "reza_owner",
+    "category": "Fastfood",
+    "menu": [
+      {
+        "name": "Burger",
+        "price": 150000.0,
+        "description": "its just a fucking burger"
+      },
+      {
+        "name": "Fries",
+        "price": 60000.0,
+        "description": "its just a fucking fries"
+      },
+      {
+        "name": "Soda",
+        "price": 30000.0,
+        "description": "its just a fucking soda"
+      }
+    ]
+  }
+]

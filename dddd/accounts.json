@@ -1,0 +1,28 @@
+[
+  {
+    "password": "1234",
+    "role": "user",
+    "username": "ali",
+    "wallet": 1000000
+  },
+  {
+    "password": "7713",
+    "role": "user",
+    "username": "javad",
+    "wallet": 0
+  },
+  {
+    "password": "pass123",
+    "restaurant": ["Reza Grill"],
+    "role": "owner",
+    "username": "reza_owner",
+    "wallet": 5000000
+  },
+  {
+    "password": "admin123",
+    "profit": 0.1,
+    "role": "admin",
+    "username": "admin",
+    "wallet": 10000000
+  }
+]
